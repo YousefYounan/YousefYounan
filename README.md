@@ -8,19 +8,16 @@ src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b6
 
 <p align="left"> <a href="https://twitter.com/yousefvyounan" target="blank"><img src="https://img.shields.io/twitter/follow/yousefvyounan?logo=twitter&style=for-the-badge" alt="yousefvyounan" /></a> </p>
 
-- 🔭 I’m currently working on **Sykkel Giganten**
+- 🔭 I’m currently working on **My own website**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Astro/React/Typescript and much more**
 
 - 💬 Ask me about **Web Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yousefvyounan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousefvyounan" height="30" width="40" /></a>
 <a href="https://fb.com/yousefyounan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousefyounan" height="30" width="40" /></a>
 <a href="https://instagram.com/yousef.younan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousef.younan" height="30" width="40" /></a>
-<a href="https://medium.com/@yousef younan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yousef younan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yousef younan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yousef younan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
